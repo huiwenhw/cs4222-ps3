@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="pilocCS4222">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/pilocCS4222.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
